@@ -1,0 +1,15 @@
+D:\Users\velez\Downloads\calculadora\calculadora\bin\Debug\net6.0\calculadora.exe
+D:\Users\velez\Downloads\calculadora\calculadora\bin\Debug\net6.0\calculadora.deps.json
+D:\Users\velez\Downloads\calculadora\calculadora\bin\Debug\net6.0\calculadora.runtimeconfig.json
+D:\Users\velez\Downloads\calculadora\calculadora\bin\Debug\net6.0\calculadora.dll
+D:\Users\velez\Downloads\calculadora\calculadora\bin\Debug\net6.0\calculadora.pdb
+D:\Users\velez\Downloads\calculadora\calculadora\obj\Debug\net6.0\calculadora.csproj.AssemblyReference.cache
+D:\Users\velez\Downloads\calculadora\calculadora\obj\Debug\net6.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\velez\Downloads\calculadora\calculadora\obj\Debug\net6.0\calculadora.AssemblyInfoInputs.cache
+D:\Users\velez\Downloads\calculadora\calculadora\obj\Debug\net6.0\calculadora.AssemblyInfo.cs
+D:\Users\velez\Downloads\calculadora\calculadora\obj\Debug\net6.0\calculadora.csproj.CoreCompileInputs.cache
+D:\Users\velez\Downloads\calculadora\calculadora\obj\Debug\net6.0\calculadora.dll
+D:\Users\velez\Downloads\calculadora\calculadora\obj\Debug\net6.0\refint\calculadora.dll
+D:\Users\velez\Downloads\calculadora\calculadora\obj\Debug\net6.0\calculadora.pdb
+D:\Users\velez\Downloads\calculadora\calculadora\obj\Debug\net6.0\calculadora.genruntimeconfig.cache
+D:\Users\velez\Downloads\calculadora\calculadora\obj\Debug\net6.0\ref\calculadora.dll
